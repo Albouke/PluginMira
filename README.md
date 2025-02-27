@@ -1,5 +1,8 @@
 google genai sdk是必要的 https://github.com/googleapis/python-genai 
-项目结构
+<details>
+<summary>目录结构</summary>
+
+```
 Murainbot（机器人根目录）
 │
 ├── plugin/
@@ -11,3 +14,6 @@ Murainbot（机器人根目录）
     ├── LLMserver.py            # LLM 服务器主程序
     └── google/
         └── genai/              # Google Generative AI 库
+```
+
+</details>
