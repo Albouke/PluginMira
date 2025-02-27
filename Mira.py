@@ -1,4 +1,3 @@
-# 创建一个总是返回True的函数规则
 import asyncio
 import os
 import re
